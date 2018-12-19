@@ -1,0 +1,7 @@
+[package]
+name = "guessing_game_v2"
+version = "0.1.0"
+authors = ["Luke Phelan <luke.phelan@hotmail.com>"]
+edition = "2018"
+
+[dependencies]
